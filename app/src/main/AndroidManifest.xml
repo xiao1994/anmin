@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xiaozheng.anmin" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".BottomTab"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".A"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".B"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".C"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".D"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".A2"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".B2"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".C2"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".D2"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".City"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".MeLogon"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".MeFirstImage"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".MeSecondImage"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".MeThirdlyImage"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me1"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me2"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me3"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me4"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me5"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me6"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me7"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me8"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Me9"
+            android:label="@string/app_name" >
+        </activity>
+
+    </application>
+
+</manifest>
